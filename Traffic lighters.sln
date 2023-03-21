@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Traffic lighters", "Traffic lighter 0.0.2\Traffic lighters.csproj", "{AAE56310-0A2B-4246-875E-6288718691AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAE56310-0A2B-4246-875E-6288718691AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE56310-0A2B-4246-875E-6288718691AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE56310-0A2B-4246-875E-6288718691AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE56310-0A2B-4246-875E-6288718691AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B09CE9B4-BDAD-43E5-B9DB-6B0F13DB9F4A}
+	EndGlobalSection
+EndGlobal

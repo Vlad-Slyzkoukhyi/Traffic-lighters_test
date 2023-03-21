@@ -1,8 +1,12 @@
-﻿using Traffic_lighter_0._0._2;
+﻿using Traffic_lighters;
+using static Traffic_lighters.Modes;
 
 Console.WriteLine($"Application start {DateTime.Now}");
 
-Mode mode = new ();
+Modes mode = new ();
 
-await mode.Lighters_mode(Mode.Modes.First);
+mode.CheckStatus();
+
+await mode.Work_Mode(WorkMode.First);
+
 
